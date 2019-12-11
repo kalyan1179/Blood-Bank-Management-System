@@ -7,34 +7,34 @@ Users have to contact their allocated Blood Bank to donate blood or to have requ
 
 Software Requirements:
 
- 	•	HTML.
+ 	•HTML.
 
-	•	CSS.
+	•CSS.
 
-	•	PHP.
+	•PHP.
 
-	•	JAVA SCRIPT.
+	•JAVA SCRIPT.
 
-	•	XAMPP SERVER.
+	•XAMPP SERVER.
 
-	•	MY SQL.
+	•MY SQL.
 
-	•	ANY BROWSER EXCEPT INTERNET EXPLORER.
+	•ANY BROWSER EXCEPT INTERNET EXPLORER.
 
 How to use?
 
-		1.Install XAMPP.
+	1.Install XAMPP.
 
-		2.Download this project(.zip file will be downloaded).
+	2.Download this project(.zip file will be downloaded).
 
-		3.Create a new folder in 'htdocs' folder(in XAMPP files).
+	3.Create a new folder in 'htdocs' folder(in XAMPP files).
 
-		4.Extract the files from .zip file into the new folder.
+	4.Extract the files from .zip file into the new folder.
 
-		5.Run Apache and MySQL in XAMPP Server.
+	5.Run Apache and MySQL in XAMPP Server.
 
-		6.Create a database named 'BBM' in phpMyAdmin.
+	6.Create a database named 'BBM' in phpMyAdmin.
 
-		7.Run bbm.sql in phpMyAdmin.
+	7.Run bbm.sql in phpMyAdmin.
 
-		8.Open home.php in browser.
+	8.Open home.php in browser.
