@@ -7,3 +7,21 @@ This System is a replacement to the existing Blood Bank Management System, so as
 
 Users have to contact their allocated Blood Bank to donate blood or to have required amount of blood. The proposed system helps the management in searching blood in different areas. This system ensures maintainability. This System has scope to make changes easily, because it has been developed by using the feature of Modularity.
 
+Software Requirements:
+•	HTML.
+•	CSS.
+•	PHP.
+•	JAVA SCRIPT.
+•	XAMPP SERVER.
+•	MY SQL.
+•	ANY BROWSER EXCEPT INTERNET EXPLORER.
+
+How to use?
+  1.Install XAMPP.
+  2.Download this project(.zip file will be downloaded).
+  3.Create a new folder in 'htdocs' folder(in XAMPP files).
+  4.Extract the files from .zip file into the new folder.
+  5.Run Apache and MySQL in XAMPP Server.
+  6.Create a database named 'BBM' in phpMyAdmin.
+  7.Run bbm.sql in phpMyAdmin.
+  8.Open home.php in browser.
