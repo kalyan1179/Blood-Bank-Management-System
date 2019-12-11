@@ -1,7 +1,7 @@
 <?php
 // $v=mysqli_connect('localhost','kalyan','','BBM') or die("couldn't connect");
 $servername = "localhost";
-$username = "kalyan";
+$username = "root";
 $password = "";
 $dbname = "BBM";
 
