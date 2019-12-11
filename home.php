@@ -1,5 +1,3 @@
-<!-- https://www.eraktkosh.in/BLDAHIMS/bloodbank/donateblood.cnt -->
-<!-- https://www.disabled-world.com/calculators-charts/blood-chart.php -->
 <!DOCTYPE html>
 <html>
 <head>
